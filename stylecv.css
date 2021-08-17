@@ -1,0 +1,17 @@
+body{
+	background-color: cyan;
+	margin: 20;
+	padding: 15px;
+}
+h1{
+	color: orange;
+	font-size: 30px;
+}
+#conteneur{
+	display: flex;
+	justify-content: space-end;
+	
+}
+li{
+	font-size: 20px;
+}
